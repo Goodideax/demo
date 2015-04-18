@@ -1,6 +1,6 @@
 
 # Scalable Internet Systems Demo Application
-https://travis-ci.org/Goodideax/demo.svg?branch=master
+![travis-ci photo](https://travis-ci.org/Goodideax/demo.svg?branch=master)
 
 This application will demonstrate many of the concepts introduced in
 this class.
